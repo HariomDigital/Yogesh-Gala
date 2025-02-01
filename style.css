@@ -98,7 +98,7 @@ h3 {
 }
 
 /* Responsive Design */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .icons {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -108,7 +108,7 @@ h3 {
   h2 {
     font-size: 16px;
   }
-}
+} */
 
 .product-slider {
   display: flex;
@@ -310,10 +310,10 @@ h3 {
   background: #fff;
   padding: 20px;
   border-radius: 10px;
-  max-width: 400px;
+  max-width: 350px;
   width: 70%;
   text-align: center;
-  height: 90%;
+  height: 70%;
   position: relative;
  
   
@@ -326,4 +326,18 @@ h3 {
 }
 
 
-
+.backtohome {
+  color: #fffefe;
+  background-color: #242323;
+  padding: 5px;
+  text-align: center;
+  align-items: center;
+  width: 100px;
+  margin: 40px;
+  margin-left: 37%;
+} 
+.backtohome1{
+  color: #fffefe;
+  background-color:black;
+  padding: 5px;
+}
